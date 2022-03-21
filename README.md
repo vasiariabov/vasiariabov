@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5HSYaZTcRpYnS/giphy.gif" width="100"/>
 </div>
-🧔: About Me :
-I am a DevOps engineer
+🧔: DevOps engineer from a Dubai company
 
-### :hammer_and_wrench: Languages and Tools :
+### 💻: DevOps tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" title="Java" alt="Java" width="80" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" title="terraform" alt="terraform" width="100" height="50"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
