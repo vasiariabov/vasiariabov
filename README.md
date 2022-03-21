@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5HSYaZTcRpYnS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="300"/>
 </div>
 🧔: DevOps engineer from a Dubai company
 
