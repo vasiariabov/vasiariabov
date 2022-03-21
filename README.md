@@ -9,4 +9,5 @@ I am a DevOps engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" title="Java" alt="Java" width="80" height="50"/>&nbsp;
 </div>
