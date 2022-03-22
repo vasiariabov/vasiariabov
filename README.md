@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="300"/>
 </div>
 
-### 🧔 DevOps engineer from a Dubai company
+### 🧔 DevOps engineer 
 
 ---
 
